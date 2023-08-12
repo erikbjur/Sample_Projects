@@ -4,3 +4,6 @@
 [submodule "C_Example"]
 	path = C_Example
 	url = ./C_Example
+[submodule "Cpp_Example"]
+	path = Cpp_Example
+	url = ./Cpp_Example
