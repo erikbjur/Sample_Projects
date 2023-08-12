@@ -7,3 +7,6 @@
 [submodule "Cpp_Example"]
 	path = Cpp_Example
 	url = ./Cpp_Example
+[submodule "Python_Example"]
+	path = Python_Example
+	url = ./Python_Example
