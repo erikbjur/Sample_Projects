@@ -1,3 +1,6 @@
 [submodule "C#_Example"]
 	path = "C#_Example"
 	url = "./C#_Example"
+[submodule "C_Example"]
+	path = C_Example
+	url = ./C_Example
